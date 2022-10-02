@@ -23,7 +23,6 @@ app.use(
       host: "localhost",
       user: "root",
       password: "Mokuba983!!",
-      port: 3306,
       database: "towerfallstats",
     },
     "single"
