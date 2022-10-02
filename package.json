@@ -4,7 +4,7 @@
   "description": "Stat tracker for Towerfall",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
+    "start": "nodemon src/index.js",
     "devStart": "nodemon src/index.js",
     "seeds": "node seeds/index.js"
   },
