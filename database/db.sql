@@ -9,7 +9,9 @@ CREATE TABLE player (
   id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   name VARCHAR(50) NOT NULL,
   tag VARCHAR(100) NOT NULL,
-  color VARCHAR(15)
+  color VARCHAR(15),
+  total_wins INT(50),
+  opened_gates INT(50)
 );
 
 -- to show all tables
