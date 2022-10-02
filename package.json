@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hendisantika/nodejs-mysql-crud.git"
+    "url": "git+https://github.com/Archer261/nodejs-mysql-crud.git"
   },
   "keywords": [
     "nodejs",
@@ -16,12 +16,12 @@
     "mysql2",
     "crud"
   ],
-  "author": "Hendi Santika",
+  "author": "Joseph Archer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hendisantika/nodejs-mysql-crud/issues"
+    "url": "https://github.com/Archer261/towerfall-stats"
   },
-  "homepage": "https://github.com/hendisantika/nodejs-mysql-crud#readme",
+  "homepage": "https://github.com/Archer261/nodejs-mysql-crud#readme",
   "dependencies": {
     "ejs": "^2.6.1",
     "express": "^4.16.4",
