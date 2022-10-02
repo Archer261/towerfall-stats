@@ -10,6 +10,7 @@
             <td>Name</td>
             <td>Tag</td>
             <td>Color</td>
+            <td>Opened Gates</td>
             <td>Actions</td>
           </tr>
         </thead>
@@ -20,6 +21,7 @@
             <td><%= data[i].name %></td>
             <td><%= data[i].tag %></td>
             <td><%= data[i].color %></td>
+            <td><%= data[i].opened_gates %></td>
             <td>
               <a href="/update/<%= data[i].id %>" class="btn btn-info">Edit</a>
               <a href="/delete/<%= data[i].id %>" class="btn btn-danger"
