@@ -30,5 +30,8 @@
     "express-myconnection": "^1.0.4",
     "morgan": "^1.9.1",
     "mysql2": "^2.3.3"
+  },
+  "devDependencies": {
+    "ws": "3.3.2"
   }
 }
